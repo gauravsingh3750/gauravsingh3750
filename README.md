@@ -16,7 +16,7 @@ I’m actively seeking opportunities as a Full Stack / Frontend / MERN Developer
 
 ---
 
-### ---Tech Stack
+### Tech Stack
 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, SQL  
